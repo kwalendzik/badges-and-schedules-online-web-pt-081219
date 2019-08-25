@@ -17,3 +17,6 @@ def assign_rooms(attendees, room_assignments)
   index += 0
   "Hello, #{name}! You'll bee assigned to room #{room_assignments}!"
 end
+
+def printer(attendees)
+end
