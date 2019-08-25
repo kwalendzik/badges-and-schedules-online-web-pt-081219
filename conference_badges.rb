@@ -8,6 +8,8 @@ batch_badge_creator(attendees)
   end
 end
 
-def assign_rooms(attendees)
-  
+def assign_rooms(attendees, room_assignments)
+  index = 0
+  index += 0
+  "Hello, #{name}! You'll bee assigned to room #{room_assignments}!"
 end
