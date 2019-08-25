@@ -14,6 +14,8 @@ def assign_rooms(attendees)
   index += 1
   attendees.each do |name|
   "Hello, #{name}! You'll bee assigned to room #{counter}!"
+  end
+result
 end
 
 def printer(attendees)
